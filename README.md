@@ -2,6 +2,7 @@
 
 <!--
 **AnujBhusal/AnujBhusal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![About_me](https://github.com/user-attachments/assets/248a5d67-99fa-470c-b21c-47e58a0cea9a)
 
 Here are some ideas to get you started:
 
