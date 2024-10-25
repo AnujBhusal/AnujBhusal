@@ -1,5 +1,5 @@
 ## Hi there 👋
-[About_me](https://github.com/user-attachments/assets/248a5d67-99fa-470c-b21c-47e58a0cea9a)
+[My_Photo](https://github.com/user-attachments/assets/248a5d67-99fa-470c-b21c-47e58a0cea9a)
 <!--
 **AnujBhusal/AnujBhusal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !
